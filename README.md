@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react and python!**
 
-- 📫 How to reach me **raymonds.chen@mail.utoronto.ca**
+- 📫 How to reach me **rchen.workmail@gmail.com**
 
 - ⚡ Fun fact **I rock climb!**
 
